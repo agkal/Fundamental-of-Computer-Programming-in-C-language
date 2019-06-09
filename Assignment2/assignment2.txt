@@ -1,0 +1,6 @@
+Assignment # 2
+Implement the classic problem of Towers of Hanoi in C using Recursion.
+
+This is a group assignment (max. 2 students).
+
+Upload your source code

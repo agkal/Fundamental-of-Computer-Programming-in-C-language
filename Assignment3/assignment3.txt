@@ -1,0 +1,2 @@
+Assignment # 3
+Research the literature for better sorting algorithms in terms of efficiency than the Bubble Sort. Implement one such algorithm and compare with Bubble Sort.
