@@ -1,0 +1,12 @@
+
+
+		~~Lab 2 Fundamental Of Computer Programing~~
+		
+
+		NAME:-	ABDUL GHAFFAR KALHORO
+
+
+	BRIEF DESCRIPTION:-
+			In this lab I learnt and practiced by doing lab tasks. And enjoyed alot by completing and doing tasks by using Visual studio..
+Task1: In this task I wrote a C program in which I calculated the cubes and squares of numbers from 0 to 10
+Task2: In this task I Wrote a C program that requires two whole numbers. After putting numbers this program tells us the sum,product,difference,quotient and remainder itself.

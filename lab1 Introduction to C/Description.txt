@@ -1,0 +1,9 @@
+
+    (a)
+	Name:	ABDULL GHAFFAR KALHORO
+   (b) Brief Explanation:-
+		From today's lab I have learnt something new and necessary for the programing known as Visual Studio.
+		 In this project I learnt that how to start Visual Studio in which i learnt to create new project in it.
+		After creating project I added some code in it and also remembered some of them and did two tasks.
+		 In my 1st task I learnt to display any message in output.
+		In 2nd project I showed in output the distance formula of any two given points by adding another source file in my 1st project.
