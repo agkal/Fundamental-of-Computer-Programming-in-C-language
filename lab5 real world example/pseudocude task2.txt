@@ -1,0 +1,26 @@
+
+			Task#2
+
+Top Level outline:
+	Analyze hour rate and hour pay and find gross pay. 
+
+First Refinement:
+
+~Input hourRate,hourWorked and count total gross pay.
+~print the total gross pay.
+
+Complete second refinement:
+
+
+input hourWorked.
+ While
+ if  hourWorked<=40
+prints" input hourRate and hourWorked  then find gross sallary by using salary formula
+salary= hourRate*hourWorked
+"
+else
+prints"
+input hourRate and hourWorked  then find gross sallary by using salary formula
+salary= (hourRate*hourWorked)+hourRate/2
+" 
+  

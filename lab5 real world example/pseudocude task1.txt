@@ -1,0 +1,36 @@
+
+			Task#1
+
+Top Level outline:
+	Analyze entered litres and mile. And find the miles driven and liters used for each tankful.
+	 Also find the overall average miles/liter.
+
+First Refinement:
+
+~Initialize variables
+~Input litres, miles and print total miles\litres and count overall miles/litres.
+~print the average of total miles/litres.
+
+Complete second refinement:
+
+   Initialize total to zero	
+   Initialize counter to zero
+
+
+
+input litres used
+if litres is not equal to -1.
+then print
+"input miles covered
+ While the user has not as yet entered the sentinel 
+   Add this total into the running total
+   Add one to the counter
+   Input the next litres and if litres is not equal to -1 " input miles".(possibly the sentinel)
+
+
+Set the average to the total divided by the counter.
+"
+
+
+else
+print "nothing were entered".
